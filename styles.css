@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: calibri, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -58,7 +58,6 @@ button:hover {
   font-size: 1.2em;
   color: #333;
 }
-
 
 .footer{
   position: absolute;
